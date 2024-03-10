@@ -1,0 +1,37 @@
+ワンクリック
+配信停止
+
+
+
+
+
+メールヘッダー
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://example.com/unsubscribe/example>
+https://example.com/unsubscribe.html?opaque=123456789
+
+
+
+
+
+https://support.google.com/a/answer/81126?hl=ja
+
+
+
+https://baremail.jp/blog/2024/02/15/3696/
+https://www.larajapan.com/2023/11/23/%E3%83%A1%E3%83%AB%E3%83%9E%E3%82%AC%E3%82%92%E3%83%AF%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%A7%E7%99%BB%E9%8C%B2%E8%A7%A3%E9%99%A4/
+https://www.necosuke.jp/%E3%81%AD%E3%81%93%E3%81%99%E3%81%91cms/gmail%E3%81%AEone-click%E3%80%80unsubscribe%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
+https://blastmail.jp/blog/spam/gmail-guideline-202402
+https://www.submit.ne.jp/apimail/news/20231226
+https://qiita.com/orimosaru/items/e613847f736e26741e52
+https://support.karte.io/post/5mAlNeG86WT709fV4BA649
+https://note.com/morika_wa/n/nd09e91e3fe3e
+
+
+https://qiita.com/tsuji_masayuki/items/be41de7a82ff34843b02
+
+
+
+
+
+
